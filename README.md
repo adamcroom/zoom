@@ -4,7 +4,7 @@ permalink: /
 ---
 
 # Zoom
-This is the course resource site for PR Publications, a course at the University of Oklahoma, taught in the Gaylord College of Journalism and Mass Communications.
+This resource is intended for instructors at the University of Oklahoma.
 
 **Instructor**
 
@@ -16,6 +16,8 @@ Adam Croom<br>
 **Office hours**: Please email me if you would like to meet either face-to-face or online!
 
 # Download Zoom
+
+
 
 # Get Started
 
