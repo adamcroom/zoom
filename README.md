@@ -25,11 +25,24 @@ Locate **Zoom Client for Meetings** and click download. Walk through the install
 
 ### Login to the Zoom Desktop
 
+## Mobile
+
+Zoom is available on mobile for Apple and Android devices. Download the app in the <a href="https://itunes.apple.com/us/app/id546505307">Apple app store</a> or in <a href="https://play.google.com/store/apps/details?id=us.zoom.videomeetings">Google Play</a>.
+
 # Get Started
 
-## Check your account status
+## Check your user type
 
-## Locate the direct URL to your Zoom rroom
+Depending on the user type, users will have access to premium features. All instructors have a **Licensed** account and all students have a **Basic** account. A Basic account allows up to 300 participants and video conferences up to forty minutes. One-on-one meetings with a Basic account do not have a time limit. A Licensed account allows video conferences of up to 24 hours with up to 300 participants.
+
+Login to oklahoma.zoom.us.
+
+On your left-hand side of the screen, click to the **Profile**.
+
+Locate **License Type** under your profile. If you believe that you should have a licensed account and are listed as Basic, <a href="http://teachanywhere.oucreate.com">submit a ticket</a> to request support.
+
+
+## Locate the direct URL to your Zoom room
 
 # Schedule Recurring Meetings
 <ol>
@@ -41,27 +54,6 @@ Locate **Zoom Client for Meetings** and click download. Walk through the install
 <li>Click <strong>Save</strong>.</li>
 <li>Finish selecting the meeting options and click <strong>Schedule</strong>.</li>
 </ol>
-
-## Adding and Editing Occurrences
-<p>Follow these steps to add or edit single occurrences part of your recurring meeting.</p>
-<ol>
-<li>Sign in to the Zoom web portal.</li>
-<li>Click&nbsp;<strong><a href="https://zoom.us/meeting">Meetings</a></strong>.</li>
-<li>Click the topic of your recurring meeting.</li>
-<li>Click <strong>Show all occurrences</strong> next to the meeting's time.<br> <img src="https://assets.zoom.us/images/en-us/web/my-meetings/show-all-occurances-link.png" alt=""><br> A list of all the meeting times will appear. You can delete or edit each meeting. You can also add another session in this section. Meeting invitations can be exported to a variety of calendars.<br> <strong>Note</strong>: If you previously added the meeting to your calendar service, such as <a href="https://support.google.com/calendar/answer/37115?co=GENIE.Platform%3DDesktop&amp;hl=en">Google Calendar</a> or <a href="https://support.office.com/en-us/article/Schedule-an-appointment-d027b756-7960-4d74-b159-05005e36c06d#__migbm_0">Outlook</a>, you need to edit the recurrence of the meeting through your calendar service.<br> <img src="https://assets.zoom.us/images/en-us/web/my-meetings/meeting-occurances.png" alt=""></li>
-</ol>
-
-## Editing All Occurrences
-
-<ol>
-<li>Sign in to the Zoom web portal.</li>
-<li>Click&nbsp;<strong><a href="https://zoom.us/meeting">Meetings</a></strong>.</li>
-<li>Click the topic of your recurring meeting.</li>
-<li>Click <strong>Edit </strong>this meeting. When asked if you want to edit all recurring meetings, click <strong>All</strong>.</li>
-<li>Edit the recurrence.<br> <strong>Note</strong>: If you previously added the meeting to your calendar service, such as <a href="https://support.google.com/calendar/answer/37115?co=GENIE.Platform%3DDesktop&amp;hl=en">Google Calendar</a> or <a href="https://support.office.com/en-us/article/Schedule-an-appointment-d027b756-7960-4d74-b159-05005e36c06d#__migbm_0">Outlook</a>, you still need to edit the recurrence of the meeting through your calendar service.<br> <img src="https://assets.zoom.us/images/en-us/web/my-meetings/recurring-meeting-settings.png" alt=""></li>
-<li>Click <strong>Save</strong>.</li>
-</ol>
-</div>
 
 # Recordings
 
